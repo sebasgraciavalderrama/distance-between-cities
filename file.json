@@ -1,0 +1,29 @@
+{'type': 'FeatureCollection',
+  'query': ['bogota'],
+  'features': [
+    {'id': 'place.6089854572752850',
+      'type': 'Feature',
+      'place_type': ['region', 'place'],
+      'relevance': 1,
+      'properties': {'short_code': 'CO-DC', 'wikidata': 'Q2841'},
+      'text': 'Bogotá',
+      'place_name': 'Bogotá, Colombia',
+      'bbox': [-74.4507139777215, 3.73063205929566, -73.9861250427296, 4.83679396872674],
+      'center': [-74.08083, 4.59889],
+      'geometry': {'type': 'Point', 'coordinates': [-74.08083, 4.59889]},
+      'context': [
+        {
+        'id': 'country.12227578366646840',
+        'wikidata': 'Q739',
+        'short_code': 'co',
+        'text': 'Colombia'}]},
+        {'id': 'place.5561805541623770',
+          'type': 'Feature',
+          'place_type': ['place'],
+          'relevance': 1,
+          'properties': {'wikidata': 'Q890659'},
+          'text': 'Bogota', 'place_name': 'Bogota, New Jersey, United States',
+          'bbox': [-74.039787995, 40.865904422, -74.02081302, 40.884270589],
+          'center': [-74.0299, 40.8762], 'geometry':
+        {'type': 'Point', 'coordinates': [-74.0299, 40.8762]}, 'context': [{'id': 'district.7492509872552970', 'wikidata': 'Q112915', 'text': 'Bergen County'}, {'id': 'region.8524001885700330', 'short_code': 'US-NJ', 'wikidata': 'Q1408', 'text': 'New Jersey'}, {'id': 'country.19678805456372290', 'wikidata': 'Q30', 'short_code': 'us', 'text': 'United States'}]}, {'id': 'poi.231928334491', 'type': 'Feature', 'place_type': ['poi'], 'relevance': 1, 'properties': {'foursquare': '45aa8486f964a52035411fe3', 'landmark': True, 'address': '141 5th Ave', 'category': 'empanada, latin american restaurant, latin american food, restaurant'}, 'text': 'Bogota Latin Bistro', 'place_name': 'Bogota Latin Bistro, 141 5th Ave, New York, New York 11217, United States', 'center': [-73.979215, 40.678119], 'geometry': {'coordinates': [-73.979215, 40.678119], 'type': 'Point'}, 'context': [{'id': 'neighborhood.18216514122225230', 'text': 'Park Slope'}, {'id': 'postcode.9214321690414170', 'text': '11217'}, {'id': 'locality.6335122455180360', 'wikidata': 'Q18419', 'text': 'Brooklyn'}, {'id': 'place.12178794975964500', 'wikidata': 'Q60', 'text': 'New York'}, {'id': 'district.3780609411998600', 'wikidata': 'Q11980692', 'text': 'Kings County'}, {'id': 'region.17349986251855570', 'short_code': 'US-NY', 'wikidata': 'Q1384', 'text': 'New York'}, {'id': 'country.19678805456372290', 'wikidata': 'Q30', 'short_code': 'us', 'text': 'United States'}]}, {'id': 'poi.25769806385', 'type': 'Feature', 'place_type': ['poi'], 'relevance': 1, 'properties': {'foursquare': '4ba992b9f964a5204d2f3ae3', 'landmark': True, 'address': 'Calle 100 # 18A - 30', 'category': 'hotel bar, bar, alcohol'}, 'text': 'Bogotá Plaza Summit Hotel', 'place_name': 'Bogotá Plaza Summit Hotel, Calle 100 # 18A - 30, Bogotá, 110111, Colombia', 'center': [-74.051471, 4.686042], 'geometry': {'coordinates': [-74.051471, 4.686042], 'type': 'Point'}, 'context': [{'id': 'postcode.587773031247480', 'text': '110111'}, {'id': 'place.6089854572752850', 'short_code': 'CO-DC', 'wikidata': 'Q2841', 'text': 'Bogotá'}, {'id': 'country.12227578366646840', 'wikidata': 'Q739', 'short_code': 'co', 'text': 'Colombia'}]}, {'id': 'poi.807453860751', 'type': 'Feature', 'place_type': ['poi'], 'relevance': 1, 'properties': {'foursquare': '4f312ff2e4b0195891ecacf8', 'landmark': True, 'category': 'government agency, office'}, 'text': 'DIAN', 'place_name': 'DIAN, Bogotá, 110321, Colombia', 'matching_text': 'Bogota', 'matching_place_name': 'Bogota, Bogotá, 110321, Colombia', 'center': [-74.072487, 4.602199], 'geometry': {'coordinates': [-74.072487, 4.602199], 'type': 'Point'}, 'context': [{'id': 'postcode.923519431929040', 'text': '110321'}, {'id': 'place.6089854572752850', 'short_code': 'CO-DC', 'wikidata': 'Q2841', 'text': 'Bogotá'}, {'id': 'country.12227578366646840', 'wikidata': 'Q739', 'short_code': 'co', 'text': 'Colombia'}]}],
+  'attribution': 'NOTICE: © 2022 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service (https://www.mapbox.com/about/maps/). This response and the information it contains may not be retained. POI(s) provided by Foursquare.'}
